@@ -1,1 +1,1 @@
-# Shell-scripts
+# Shell-scripts that makes my life easier
