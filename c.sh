@@ -1,4 +1,4 @@
-# converts column in ms excell and formats it to a linear vector in maple format.
+# converts ms excell column and formats it to a linear vector in maple.
 
 #!/bin/bash
 printf ":=["
